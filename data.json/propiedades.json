@@ -1,0 +1,34 @@
+[
+    {
+        "tipo": "Casa",
+        "factor": 2.39
+    },
+    {
+        "tipo": "P.H.",
+        "factor": 1.45
+    },
+    {
+        "tipo": "Depto. Edificio",
+        "factor": 1.62
+    },
+    {
+        "tipo": "Barrio Privado",
+        "factor": 2.69
+    },
+    {
+        "tipo": "Oficina",
+        "factor": 1.49
+    },
+    {
+        "tipo": "Local Comercial",
+        "factor": 2.21
+    },
+    {
+        "tipo": "Depósito Logística",
+        "factor": 2.82
+    },
+    {
+        "tipo": "Campo",
+        "factor": 1.95
+    }
+]

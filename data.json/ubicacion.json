@@ -1,0 +1,18 @@
+[
+    {
+        "ubicacion": "CABA",
+        "factor": 1.12
+    },
+    {
+        "ubicacion": "Costa Atlantica",
+        "factor": 1.14
+    },
+    {
+        "ubicacion": "Patagonia",
+        "factor": 1.06
+    },
+    {
+        "ubicacion": "Norte Argentino",
+        "factor": 1.02
+    }
+]

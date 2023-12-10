@@ -1,0 +1,15 @@
+html{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #D88DF1;
+}
+#root{
+    padding: 0 0 30px 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #D88DF1;
+}
